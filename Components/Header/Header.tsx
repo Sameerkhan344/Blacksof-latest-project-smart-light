@@ -1,3 +1,4 @@
+"use client";
 import React, { useState } from "react";
 import Image from "next/image";
 import wifiImage from "@/public/Assets/wifi.png";
